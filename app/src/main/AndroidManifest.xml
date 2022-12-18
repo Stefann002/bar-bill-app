@@ -26,6 +26,8 @@
                 android:value="" />
         </activity>
         <activity android:name=".NewBill"/>
+        <activity android:name=".CurrentBill"></activity>
+        <activity android:name=".PaidBill"></activity>
     </application>
 
 </manifest>
